@@ -44,17 +44,5 @@ and contact information. It is fully responsive and structured for clarity and e
 - **CSS3**  
 
 
-## 📁 Folder Structure  
-CODSOFT/
-│
-└── profilo/
-      │
-      ├── index.html
-      ├── style.css
-      ├── img/
-      │     ├── profile.png
-      │     └── resume.docx  
-      │
-      └── README.md
 
 ### ⭐ *Thank you for viewing my project!* 
